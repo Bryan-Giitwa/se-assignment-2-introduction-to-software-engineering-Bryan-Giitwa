@@ -1,6 +1,6 @@
 # SE-Assignment-2 ANSWERS PLP ASSIGNMENT
 
-<!-- Define Software Engineering: -->
+1. Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
 Software Engineering is the systematic application of engineering approaches to the development of software. It involves the use of established principles and practices to design, develop, maintain, test, and evaluate software to ensure it is reliable, efficient, and meets user requirements.
@@ -12,7 +12,7 @@ Process: Software engineering follows a structured process, such as the Software
 Collaboration: Software engineering often involves large teams working on various aspects of a project, whereas traditional programming can be a more solitary activity.
 Documentation: Software engineering emphasizes extensive documentation to ensure maintainability and scalability, while traditional programming may lack thorough documentation.
 
-<!-- Software Development Life Cycle (SDLC): -->
+2. Software Development Life Cycle (SDLC):
 
 The Software Development Life Cycle (SDLC) is a process used to design, develop, and test high-quality software.
 
@@ -45,7 +45,7 @@ Flexibility vs. Structure: Agile is more flexible, while Waterfall is more struc
 Risk Management: Agile handles changes and risks better due to its iterative nature.
 Delivery: Agile delivers small increments frequently, whereas Waterfall delivers the complete product at the end.
 
-<!-- Requirements Engineering: -->
+3. Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
@@ -67,7 +67,7 @@ Scalability: Modules can be developed or scaled independently.
 Reusability: Modules can be reused across different projects.
 Parallel Development: Different teams can work on different modules simultaneously.
 
-<!-- Testing in Software Engineering: -->
+4. Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Levels of Software Testing:
@@ -77,7 +77,7 @@ System Testing: Testing the complete system to verify that it meets the specifie
 Acceptance Testing: Validating that the software meets the business requirements and is ready for delivery to the end-user.
 Importance: Testing is crucial as it ensures the reliability, security, and performance of the software, reducing the risk of defects and ensuring user satisfaction.
 
-<!-- Version Control Systems: -->
+5. Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Version Control Systems (VCS): Tools that help manage changes to source code over time. They allow multiple developers to collaborate on a project without overwriting each other's work.
@@ -93,7 +93,7 @@ Git: Distributed VCS known for its performance and flexibility. Features include
 Subversion (SVN): Centralized VCS that focuses on simplicity and ease of use. Features include versioned directories and atomic commits.
 Mercurial: Distributed VCS similar to Git, known for its simplicity and ease of use.
 
-<!-- Software Project Management: -->
+6. Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
@@ -110,7 +110,7 @@ Scope Creep: Managing changes in project scope.
 Resource Constraints: Balancing limited resources and deadlines.
 Team Dynamics: Handling conflicts and ensuring team cohesion.
 
-<!-- Software Maintenance: -->
+7. Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
@@ -124,7 +124,7 @@ Perfective Maintenance: Enhancing functionality and performance.
 Preventive Maintenance: Updating software to prevent future problems.
 Importance: Maintenance ensures the long-term usability and performance of software, adapting it to evolving requirements and environments.
 
-<!-- Ethical Considerations in Software Engineering: -->
+8. Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Ethical Issues:
