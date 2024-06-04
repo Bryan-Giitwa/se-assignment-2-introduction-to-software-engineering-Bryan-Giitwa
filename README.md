@@ -97,8 +97,6 @@ Mercurial: Distributed VCS similar to Git, known for its simplicity and ease of 
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
-Role of a Software Project Manager:
-
 Planning: Defining the scope, objectives, and timeline of the project.
 Resource Management: Allocating resources, including team members and tools.
 Risk Management: Identifying, assessing, and mitigating risks.
